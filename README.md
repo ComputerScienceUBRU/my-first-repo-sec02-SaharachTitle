@@ -1,5 +1,5 @@
 # อาหารที่ชอบ 
-KFC
+KFC MK 
 # Student ID
 57122420552
 # Name
